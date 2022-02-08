@@ -1,0 +1,24 @@
+.h1 {
+  display: flex;
+  color: royalblue;
+  text-align: left;
+}
+
+.btn {
+  display: flex;
+  text-align: left;
+  background-color: red;
+  color: #fff;
+  border-radius: 100px;
+  padding: 10px;
+  border: none;
+}
+
+.btn2 {
+  display: flex;
+  background-color: transparent;
+  color: grey;
+  border: 1px solid gray;
+  border-radius: 100px;
+  padding: 10px;
+}
